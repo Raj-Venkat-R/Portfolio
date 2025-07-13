@@ -21,7 +21,7 @@ Hi there! I'm Raj Venkat R, and this is my portfolio website code built with HTM
 * Fonts: Augustina, Rubik, Dancing Script
 * Bootstrap Icons
 
-## **Explore the code on GitHub: [https://github.com/itsvijaysingh/My-Portfolio/](https://github.com/Raj-Venkat-R/My-Portfolio/)**
+## **Explore the code on GitHub: [https://github.com/Raj-Venkat-R/Portfolio/tree/main/My-Portfolio/]**
 
 ## **Why This Web Developer Portfolio Stands Out**
 
